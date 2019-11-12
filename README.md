@@ -36,7 +36,7 @@ Here is the outline of this report:
 
 The RMarkdown file can be found [here](https://github.com/imzdu/apply-ds-to-improve-addiction-treatment/tree/master/Communication).
 
-The full report of this analysis can be found [here](https://github.com/imzdu/apply-ds-to-improve-addiction-treatment/blob/master/Communication/bam_survey_analysis.pdf).
+The full report of this analysis can be found [here](https://github.com/imzdu/apply-ds-to-improve-addiction-treatment/blob/master/Communication/Apply%20Data%20Science%20to%20Improve%20Addiction%20Treatment.pdf).
 
 De-identified dataset for reproducing the report can be found [here](https://github.com/imzdu/apply-ds-to-improve-addiction-treatment/tree/master/Raw%20Data/BAM%20Data%20Raw)
 
