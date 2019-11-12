@@ -1,0 +1,1 @@
+Make sure to set the working directory to the repo folder. 
